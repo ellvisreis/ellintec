@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ELLINTEC">
+  <!-- Modelo B: monograma E estrutural, lido como nivel de obra.
+       As tres barras sao os degraus; a dourada e a bolha do nivel. -->
+  <rect x="9" y="9" width="8" height="46" rx="2.6" fill="currentColor"/>
+  <rect x="17" y="9"  width="38" height="8" rx="2.6" fill="currentColor"/>
+  <rect x="17" y="28" width="27" height="8" rx="2.6" fill="var(--ouro,#B98B2E)"/>
+  <rect x="17" y="47" width="38" height="8" rx="2.6" fill="currentColor"/>
+</svg>
